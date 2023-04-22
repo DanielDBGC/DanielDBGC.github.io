@@ -8,5 +8,7 @@ tags:
   - Napoleon
   - Data Visualization
 header:
-  image: /assets/images/Minard.jpg
+  image: /assets/images/Minard.png
 ---
+
+Charles Joseph Minard was French engineer famous for his conrtibution to the field of information graphics.
