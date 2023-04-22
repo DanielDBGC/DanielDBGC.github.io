@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Daniel Diaz Barriga Gomez del Campo"
-  avatar : "/assets/images/profile.png"
+  avatar : "/assests/images/FirstPicture-th.jpg"
   bio    : "Data Science student."
   links:
     - label: "Website"
