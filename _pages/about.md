@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+My name is Daniel, I study Data Science at ITAM, Mexico City. Throughout my studies I have learnt a variety of programing languages, including Python, Java and Prolog. I am well versed in many Python libraries including Pandas and Numpy.
+I am able to run queries in both SQL and Mongo, and I am still learning some other skills.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Other interests of mine include reading - be it fantasy novels, comic books or history, watching movies, and playing video games. I also like learning about math and probability. In this page I will share some of the things I like about mostly related to Data Science!
+
